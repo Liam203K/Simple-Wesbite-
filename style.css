@@ -1,0 +1,35 @@
+/* Style for the Social Media button */
+#showSocialBtn, #creatorBtn, #tcaBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #b6ff00;
+    color: orange;
+    border: none;
+    border-radius: 5px;
+}
+
+    #showSocialBtn:hover, #creatorBtn:hover, #tcaBtn:hover {
+        background-color: #0056b3;
+    }
+
+/* Style for the Social Media links */
+#socialMedia a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+    #socialMedia a:hover {
+        text-decoration: underline;
+    }
+
+body {
+    background-color: red; /* Sets the background color to orange */
+    margin:  0; /* Removes any default margin */
+    padding: 0; /* Removes any default padding */
+}
+
+
+
+
